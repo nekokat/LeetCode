@@ -18,3 +18,5 @@ class Solution:
     
     def nearestValidPoint(self, x: int, y: int, points: List[List[int]]) -> int:
         return min(self.validation(x, y, points), key=lambda k: self.distance(x, y, k[1]), default = (-1,))[0]        
+
+    
