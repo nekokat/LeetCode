@@ -11,3 +11,4 @@
 | 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [Python](0976.py) |
 | 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [Python](1779.py) |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](0202.py) |
+| 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python](0030.py) |
