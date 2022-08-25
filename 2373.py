@@ -1,7 +1,6 @@
 """
 2373. Largest Local Values in a Matrix  https://leetcode.com/problems/largest-local-values-in-a-matrix/
 """
-
 import numpy as np
 
 class Solution:
@@ -14,7 +13,5 @@ class Solution:
                 for col in cols:
                      yield m[row-1:row+2:1,col-1:col+2:1].max()
                         
-        return list(np.array(list(gererator(rows, cols))).reshape((max(rows), max(cols))))
-        
-        
-        
+        return np.array(list(gererator(rows, cols))).reshape(max(rows), max(cols))
+    
