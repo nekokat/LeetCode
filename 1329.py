@@ -9,7 +9,7 @@ class Solution:
         matrix = np.array(mat)
         n, m = len(mat), len(mat[0])
         
-        for i in range(-n+1,m):
+        for i in range(-n+2,m-1):
             l = sorted(np.diag(matrix, k=i))
             if i < 0:
                 np.fill_diagonal(matrix[-i:], l)
