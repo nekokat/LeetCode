@@ -7,7 +7,7 @@ class Solution:
     def minCost(self, colors: str, neededTime: List[int]) -> int:
         s = 0
         temp = []
-        for position, colors in enumerate(zip(colors,colors[1::]+"A"),start=1):
+        for position, colors in enumerate(zip(colors,colors[1::]+"*"),start=1):
             color, next_color = colors
             if not temp:
                 temp.append(neededTime[position-1])
