@@ -18,3 +18,5 @@
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python](1329.py) |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Python](1827.py) |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [Python](1578.py) |
+| 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python](404.py) |
+
