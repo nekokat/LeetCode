@@ -3,6 +3,7 @@
 | #### | Title | Solution |
 | :---: | :--- | :---: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](0001.py) |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](0002.py) |
 | 0458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [Python](0458.py) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Python](1523.py) |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Python](1491.py) |
@@ -18,5 +19,5 @@
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python](1329.py) |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Python](1827.py) |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [Python](1578.py) |
-| 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python](404.py) |
+| 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python](0404.py) |
 
