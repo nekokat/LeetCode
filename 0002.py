@@ -25,6 +25,6 @@ class Solution:
             l.next = ListNode(s%10)
             l = l.next
             p = s//10
-        if p == 1:
-            l.next = ListNode(p)
+        if p:
+            l.next = ListNode(1)
         return k
