@@ -21,3 +21,4 @@
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [Python](1578.py) |
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python](0404.py) |
 | 0999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [Python](0999.py) |
+| 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Python](1700.py) |
