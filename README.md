@@ -20,4 +20,4 @@
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Python](1827.py) |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [Python](1578.py) |
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python](0404.py) |
-
+| 0999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [Python](0999.py) |
